@@ -185,16 +185,9 @@ button
     border-radius: 10px;
     gap: 5%;
     box-shadow: 3px 5px lightgray;
-
+    border-left: 2rem solid orange;
 }
 
-
-.sideBorder
-{
-    grid-area: 1 / 1 / 13 / 1;
-    background-color: #f0b429;
-    border-radius: 10px;
-}
 
 .project > h3
 {
